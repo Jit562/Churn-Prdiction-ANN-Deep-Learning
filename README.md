@@ -2,4 +2,4 @@
 
 ## Breast-Cancer-Prediction-With-ML-ANN-Deep-Learning
 
-## Span-Eamil-Prediction-With-ML-ANN-Deep-Learning
+## Spam-Email-Prediction-With-ML-ANN-Deep-Learning
