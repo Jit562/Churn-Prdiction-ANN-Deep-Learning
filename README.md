@@ -1,3 +1,3 @@
-# Churn-Prdiction-ANN-Deep-Learning
+## Churn-Prediction-ANN-Deep-Learning
 
-# Breast-Cancer-Prdiction-With-ML-ANN-Deep-Learning
+## Breast-Cancer-Prediction-With-ML-ANN-Deep-Learning
